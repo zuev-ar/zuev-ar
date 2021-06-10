@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zuev-ar
 - 👀 I’m interested in IOS development
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me: telegram - @arkzv
 
 <!---
